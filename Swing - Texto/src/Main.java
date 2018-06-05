@@ -24,7 +24,7 @@ public class Main extends JFrame{
 
 	
 	public Main() {
-		super("Líneas");
+		super("Lineas texto");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		Container c = getContentPane();
 		// crear y añadir el Lienzo
